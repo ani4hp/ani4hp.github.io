@@ -1,0 +1,157 @@
+<!--#include virtual="partials/header.html" -->
+<!--#include virtual="partials/appnav.html" -->
+<div id="moby" class="dtl-grp appbk1">
+  <div class="container">
+    <h4 class="page-head-txt">Moby</h4>
+  </div>
+</div>
+<div class="dtl-grp">
+  <div class="container">
+    <h4>Requirement</h4>
+    <ul class="dtl-list">
+        <li>Simple and intuitive.</li>
+        <li>Ease of use.</li>
+        <li>Fast performance</li>
+    </ul>
+  </div>
+</div>
+<div class="dtl-grp appbk2">
+  <div class="container">
+    <h4 class="page-head-txt"></h4>
+  </div>
+</div>
+<div class="dtl-grp">
+  <div class="container">
+    <h4>Features</h4>
+    <ul class="dtl-list">
+        <li>Specially designed bottom menu bar for quick links.</li>
+        <li>Central menu button for thumb comfort.</li>
+        <li>SVG used for faster loading and response times.</li>
+        <li>Ultra sharp images at any resolution.</li>
+    </ul>
+  </div>
+</div>
+<div class="dtl-grp appbk3">
+  <div class="container">
+    <h4 class="page-head-txt"></h4>
+  </div>
+</div>
+<div class="dtl-grp">
+  <div class="container">
+    <h4>Moby Wallet</h4>
+    <ul class="dtl-list">
+        <li>Moby Wallet option to save cards to prevent waste of time in entering same data.</li>
+        <li>Moby Wallet Cash for faster and confirmed checkouts.</li>
+    </ul>
+  </div>
+</div>
+<div class="dtl-grp appbk4">
+  <div class="container">
+    <h4 class="page-head-txt"></h4>
+  </div>
+</div>
+<div class="dtl-grp">
+  <div class="container">
+    <h4>Diary and History</h4>
+    <ul class="dtl-list">
+        <li>Diary for contacts backup and quick look up.</li>
+        <li>Recent history for quick look up and repeat favourite recharges.</li>
+    </ul>
+  </div>
+</div>
+<div class="dtl-grp appbk5">
+  <div class="container">
+    <h4 class="page-head-txt"></h4>
+  </div>
+</div>
+<div class="dtl-grp">
+  <div class="container tool">
+    <h4>Built On</h4>
+    <div class="dtl-list ">
+        <div class="col-md-2"></div>
+        <div class="col-md-2">
+            <img src="static/img/html5.svg">
+            <p>HTML5</p>
+        </div>
+        <div class="col-md-2">
+            <img src="static/img/css3.svg">
+            <p>CSS3</p>
+        </div>
+        <div class="col-md-2">
+            <img src="static/img/jquery.svg">
+            <p>JQuery</p>
+        </div>
+        <div class="col-md-2">
+            <img src="static/img/sass.svg">
+            <p>SASS</p>
+        </div>
+        <div class="col-md-2"></div>
+    </div>
+  </div>
+</div>
+<div id="kbo" class="dtl-grp appkbo1">
+  <div class="container">
+    <h4 class="page-head-txt"></h4>
+  </div>
+</div>
+<div class="dtl-grp">
+  <div class="container">
+    <h4>Requirement</h4>
+    <ul class="dtl-list">
+        <li>Simple and engaging.</li>
+        <li>Ease of use.</li>
+    </ul>
+  </div>
+</div>
+<div class="dtl-grp appkbo2">
+  <div class="container">
+    <h4 class="page-head-txt"></h4>
+  </div>
+</div>
+<div class="dtl-grp">
+  <div class="container">
+    <h4>Features</h4>
+    <ul class="dtl-list">
+        <li>Specially designed bottom menu bar for quick links.</li>
+        <li>Central menu button for thumb comfort.</li>
+        <li>SVG used for faster loading and response times.</li>
+        <li>Ultra sharp images at any resolution.</li>
+    </ul>
+  </div>
+</div>
+<div class="dtl-grp appkbo3">
+  <div class="container">
+    <h4 class="page-head-txt"></h4>
+  </div>
+</div>
+<div class="dtl-grp">
+  <div class="container tool">
+    <h4>Built On</h4>
+    <div class="dtl-list ">
+        <div class="col-md-2"></div>
+        <div class="col-md-2">
+            <img src="static/img/html5.svg">
+            <p>HTML5</p>
+        </div>
+        <div class="col-md-2">
+            <img src="static/img/css3.svg">
+            <p>CSS3</p>
+        </div>
+        <div class="col-md-2">
+            <img src="static/img/jquery.svg">
+            <p>JQuery</p>
+        </div>
+        <div class="col-md-2">
+            <img src="static/img/sass.svg">
+            <p>PhoneGap</p>
+        </div>
+        <div class="col-md-2"></div>
+    </div>
+  </div>
+</div>
+<div class="dtl-grp appkbo4">
+  <div class="container">
+    <h4 class="page-head-txt"></h4>
+  </div>
+</div>
+<!--#include virtual="partials/footer.html" -->

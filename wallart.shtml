@@ -1,0 +1,57 @@
+<!--#include virtual="partials/header.html" -->
+
+<div class="dtl-grp wall1">
+  <div class="container">
+    <h4 class="page-head-txt"></h4>
+  </div>
+</div>
+<div class="dtl-grp">
+  <div class="container">
+    <h4>Description</h4>
+    <ul class="dtl-list">
+        <li><p>This Wall art was designed to be the pre launching landing page of a ficticious
+        organization which relies on the core science for its futuristic services.
+        This was designed in solid colors with subtle gradients.</li>
+    </ul>
+  </div>
+</div>
+<div class="dtl-grp wall2">
+  <div class="container">
+    <h4 class="page-head-txt"></h4>
+  </div>
+</div>
+<div class="dtl-grp">
+  <div class="container">
+    <h4>Description</h4>
+    <ul class="dtl-list">
+        <li>This wallpaper was designed to reflect floral connection with its soil in the national parks. IT was developed through variation in noise texture of colors. </li>
+    </ul>
+  </div>
+</div>
+<div class="dtl-grp wall3">
+  <div class="container">
+    <h4 class="page-head-txt"></h4>
+  </div>
+</div>
+<div class="dtl-grp">
+  <div class="container">
+    <h4>Description</h4>
+    <ul class="dtl-list">
+        <li>This effect is inspired from overlapping of colors in Bokeh effect. But yet it is radically different in appearence as colors were mergred into each other rather than they overlapped with gaussian Blur.</li>
+    </ul>
+  </div>
+</div>
+<div class="dtl-grp wall4">
+  <div class="container">
+    <h4 class="page-head-txt"></h4>
+  </div>
+</div>
+<div class="dtl-grp">
+  <div class="container">
+    <h4>Description</h4>
+    <ul class="dtl-list">
+        <li>This Wallpaper is the zoomed in artistic impression of a 18-core Nano processor with custom font adjustments to meet the futuristic feel of the technology.</li>
+    </ul>
+  </div>
+</div>
+<!--#include virtual="partials/footer.html" -->

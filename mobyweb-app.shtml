@@ -1,0 +1,68 @@
+<!--#include virtual="partials/header.html" -->
+
+<div class="dtl-grp mainbk">
+  <div class="container">
+    <h4 class="page-head-txt">Moby Web</h4>
+  </div>
+</div>
+<div class="dtl-grp">
+  <div class="container">
+    <h4>Requirements</h4>
+    <ul class="dtl-list">
+        <li>To include multiple recharge options in a clean manner.</li>
+        <li>To give unique and distinct outlook.</li>
+        <li>To design keeping young generation in mind.</li>
+        <li>To make an scalable and future friendly design.</li>
+    </ul>
+  </div>
+</div>
+<div class="dtl-grp mainbk2">
+  <div class="container">
+    <h4 class="page-head-txt">Ideation</h4>
+  </div>
+</div>
+<div class="dtl-grp">
+  <div class="container">
+    <h4>Features</h4>
+    <ul class="dtl-list">
+        <li>Rechagre your Mobile, DTH, Datacard.</li>
+        <li>Pay your Landline, Electricity, Gas Bills</li>
+        <li>Buy Gift Cards/Vouchers for your loved ones or Corporate Employees.</li>
+        <li>Save your Cards and Money to Wallet.</li>
+        <li>Use Diary to backup your contacts and quick select for recharging.</li>
+    </ul>
+  </div>
+</div>
+<div class="dtl-grp mainbk3">
+  <div class="container">
+    <h4 class="page-head-txt"></h4>
+  </div>
+</div>
+<div class="dtl-grp">
+  <div class="container tool">
+    <h4>Built On</h4>
+    <div class="dtl-list ">
+        <div class="col-md-2"></div>
+        <div class="col-md-2">
+            <img src="static/img/html5.svg">
+            <p>HTML5</p>
+        </div>
+        <div class="col-md-2">
+            <img src="static/img/css3.svg">
+            <p>CSS3</p>
+        </div>
+        <div class="col-md-2">
+            <img src="static/img/jquery.svg">
+            <p>JQuery</p>
+        </div>
+        <div class="col-md-2">
+            <img src="static/img/sass.svg">
+            <p>SASS</p>
+        </div>
+        <div class="col-md-2"></div>
+    </div>
+    <p class="live"><a href="https://www.mobyecharge.com" target="_blank">Mobyecharge.com</a></p>
+  </div>
+</div>
+
+<!--#include virtual="partials/footer.html" -->
